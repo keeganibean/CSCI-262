@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/lab11/Queue.h
+iostream
+-
+
+Z:/lab11/test_no_template.h
+string
+-
+iostream
+-
+Queue.h
+Z:/lab11/Queue.h
+
+Z:/lab11/tests.cpp
+test_no_template.h
+Z:/lab11/test_no_template.h
+
