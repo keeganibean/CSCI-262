@@ -1,0 +1,3 @@
+Z:/lab05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+Z:/lab05/cmake-build-debug/CMakeFiles/mondrian.dir
+Z:/lab05/cmake-build-debug/CMakeFiles/edit_cache.dir
